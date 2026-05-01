@@ -1,0 +1,63 @@
+<?php include_once("header.php")?>
+<!-- Main content -->
+<div class="container">
+	<div class="row">
+		<div class="col-sm-3">
+		  <div class="list-group mt-20">
+				<a class="list-group-item" href="oitssbp.php">Sambalpur Chapter 2003-04</a>
+				<a class="list-group-item active" href="oitsrkl.php">Rourkela Chapter 2003-04</a>
+				<a class="list-group-item" href="oitsbam.php">Berhampur Chapter 2004-05</a>
+				<a class="list-group-item" href="oitspkd.php">Parlakhemundi Chapter 2006</a>
+				<a class="list-group-item" href="oitsdkl.php">Dhenkanal Chapter (Synergy Institute) 2006</a>
+				<a class="list-group-item" href="oitsbls.php">Balasore Chapter 2007</a>
+			</div>
+		</div>
+		<div class="col-sm-9">
+			<h1>Rourkela Chapter</h1>
+			<hr>
+			<p>In late december, 2003, a letter was received from Prof Sourya Patnaik, director, rourkela institute of management studies (rims) with a list of ten new members from rims along with a request to open a chapter of oits at rourkela. The Institute was rated as among the top 40 B-schools, and had MCA programs along with business school programs. We already had quite a few oits members in nit rourkela, and it was thougt that such chapter shall be serving the aims and objectives of oits for the spread of IT in orissa.</p>
+
+			<p>S Patnaik and sreekumar both of rims acted as convenors of the chapter. They further requested that they already had a program for faculty improvement scheduled for 8th January, 2004, and it would be nice to inaugurate the rourkela chapter of oits then with the faculty improvement program being the first function under its auspices. However, as per rules oits executive committee needs to approve the opening of a chapter for which time was not available. Since opening of this chapter was totally parallel to the opening of the sambalpur chapter, the president rang up some executive committee members, and with their approval intimated Prof Patnaik that we may do so.</p>
+
+			<p>The chapter was inaugurated on 8th january, 2004 by again, Prof M C Dash, vice-chancellor, sambalpur university. The function was attended by the president, oits, who welcomed the delegates, by Prof S Padhy, who spoke about IT and oits, Prof G Panda, who elaborated on many aspects of IT to emphasize that IT is so interdisciplinary that it could hardly be regarded as an independent subject. Prof Sourya Patnaik presided over the function and intimated that they had requested Prof Panda of NIT Rourkela to be the president of the chapter and he had kindly agreed.</p>
+
+			<p>One thing about Prof Panda's talk particularly impressed me. He said that he can train computer students to be self-reliant and through software development, through this training, earn their own livelihood at a comfortable level. I do hope that through his leadership, this will come to happen, in which case rourkela chapter will lead oits and all IT lovers about a very positive action.</p>
+
+			<p>The afternoon programe was devoted to the workshop on financial computation where an expert from finance introduced the subject, and Prof Padhy talked about the computational modelling of the corresponding theories. It was attended by more than twenty-five participants spread from different colleges in orissa. It is very well known that economic models have become highly mathematical, and with the need for wide-scale data bases, computational finance is becoming a very important area of IT.</p>
+
+			<p>The executive committee of oits met on 12.1.2004 where it discusssed about the opening of the rourkela chapter, and approved the same.</p>
+
+			<p>Rourkela chapter started with the seed money of Rs.11,210+Rs.8,000, the first above being the money transferred from oits membership fees, and the second being a donation by S P Misra, who was Professor at (then) REC Rourkela for ten years. He also thougt that the amount should be reasonable, since as per rules at least half of the above amount shall be kept as fixed deposit. By the way, this fixed deposit gives some stability to the chapters, where generally the members shall try to make the programs self-sustaining. The name of the bank account of the chapter is oits-rkl.</p>
+
+			<p>Rourkela chapter at present has seventeen members. The secretary as below has intimated that the following office bearers have taken charge:</p>
+			<ul>
+				<li>President: G Panda, NIT Rourkela
+				<li>Secretary: D P Acharya, RIMS
+				<li>Treasurer: Barnali Pradhan, RIMS
+				<li>Advisor: S Pattnaik, RIMS
+			</ul>
+
+			<p>Other members of the executive committee are</p>
+			<ul>
+				<li>R K Chhotray</li>
+				<li>B Majhi</li>
+				<li>Sreekumar</li>
+				<li>Suvendu Mishra</li>
+				<li>S K Mishra</li>
+			</ul>
+
+			<p>Let us wish rourkela chapter all success. <strong>(S.P Misra)</strong></p>
+
+
+			Address:
+			<address>
+				Professor S P Misra, President, Orissa Information Technology Society,<br>
+				Kanan Vihar HIG Colony, Bhubaneswar 751031, India.<br>
+				Tel: 91-674-2740810 (H), mobile: 9437000810<br>
+				email: spmisra1@sancharnet.in; spmisra@iopb.res.in; spmisra1@yahoo.com
+			</address>
+		</div>
+	</div>
+</div>
+
+<?php include_once("footer.php")?>

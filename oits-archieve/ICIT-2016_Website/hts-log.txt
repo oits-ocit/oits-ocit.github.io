@@ -1,0 +1,37 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 13 Jan 2017 17:31:43 at http://icit.github.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://icit.github.io/ -O1 "C:\Users\smohanty\Dropbox\SM_Working_DOC\Services\2016\ICIT_2016\Website_2017-01-13\ICIT_2017-01-13" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:41:51	Error: 	"Not Found" (404) at link icit.github.io/assets/img/gray-square.gif (from icit.github.io/assets/css/bootstrap.min.css)
+17:41:51	Error: 	"Not Found" (404) at link icit.github.io/assets/fonts/fontawesome-webfont.eot?v=4.3.0 (from icit.github.io/assets/css/font-awesome.min.css)
+17:41:51	Error: 	"Not Found" (404) at link icit.github.io/assets/fonts/fontawesome-webfont.eot? (from icit.github.io/assets/css/font-awesome.min.css)
+17:41:51	Error: 	"Not Found" (404) at link icit.github.io/assets/fonts/fontawesome-webfont.woff2?v=4.3.0 (from icit.github.io/assets/css/font-awesome.min.css)
+17:41:51	Error: 	"Not Found" (404) at link icit.github.io/assets/fonts/fontawesome-webfont.woff?v=4.3.0 (from icit.github.io/assets/css/font-awesome.min.css)
+17:41:51	Error: 	"Not Found" (404) at link icit.github.io/assets/fonts/fontawesome-webfont.ttf?v=4.3.0 (from icit.github.io/assets/css/font-awesome.min.css)
+17:41:51	Error: 	"Not Found" (404) at link icit.github.io/assets/fonts/fontawesome-webfont.svg?v=4.3.0 (from icit.github.io/assets/css/font-awesome.min.css)
+17:41:51	Error: 	"Not Found" (404) at link icit.github.io/assets/faces/none.jpg (from icit.github.io/program/keynotes.html)
+17:47:56	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2014/backblue.gif (from icit.github.io/archive/ICIT-2014/index.html)
+17:47:56	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2014/fade.gif (from icit.github.io/archive/ICIT-2014/index.html)
+17:48:27	Error: 	"Not Found" (404) at link icit.github.io/Popover requires tooltip.js (from https://cdn.ncsu.edu/brand-assets/bootstrap/js/bootstrap.min.js)
+17:49:34	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/IndexMain_files/filelist.xml (from icit.github.io/archive/ICIT-2006/IndexMain.html)
+17:49:34	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/IndexMain_files/editdata.mso (from icit.github.io/archive/ICIT-2006/IndexMain.html)
+17:49:34	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/organizing_committee_files/filelist.xml (from icit.github.io/archive/ICIT-2006/organizing_committee.html)
+17:49:34	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/program_committee_files/filelist.xml (from icit.github.io/archive/ICIT-2006/program_committee.html)
+17:49:34	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/CIT2006_CFP_files/filelist.xml (from icit.github.io/archive/ICIT-2006/CIT2006_CFP.html)
+17:49:34	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/CIT2006_CFP_files/editdata.mso (from icit.github.io/archive/ICIT-2006/CIT2006_CFP.html)
+17:49:36	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/deadlines_files/filelist.xml (from icit.github.io/archive/ICIT-2006/deadlines.html)
+17:49:36	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/paper_submission_files/filelist.xml (from icit.github.io/archive/ICIT-2006/paper_submission.html)
+17:49:36	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/paper_submission_files/editdata.mso (from icit.github.io/archive/ICIT-2006/paper_submission.html)
+17:49:36	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/ICIT2006_registration_files/filelist.xml (from icit.github.io/archive/ICIT-2006/registration_information.html)
+17:49:36	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/travel_information_files/filelist.xml (from icit.github.io/archive/ICIT-2006/hotel_information.html)
+17:49:43	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/venue_files/filelist.xml (from icit.github.io/archive/ICIT-2006/city_information.html)
+17:49:43	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/sponsors_list_files/filelist.xml (from icit.github.io/archive/ICIT-2006/sponsors_list.html)
+17:49:43	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/sponsors_list_files/editdata.mso (from icit.github.io/archive/ICIT-2006/sponsors_list.html)
+17:49:43	Error: 	"Not Found" (404) at link icit.github.io/archive/ICIT-2006/contact_us_files/filelist.xml (from icit.github.io/archive/ICIT-2006/contact_us.html)
+
+HTTrack Website Copier/3.48-22 mirror complete in 18 minutes 0 seconds : 192 links scanned, 165 files written (27240461 bytes overall) [26659107 bytes received at 24684 bytes/sec], 1439227 bytes transferred using HTTP compression in 101 files, ratio 34%, 6.8 requests per connection
+(26 errors, 0 warnings, 0 messages)
